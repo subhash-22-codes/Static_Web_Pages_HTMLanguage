@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+form {
+  max-width: 300px;
+  margin: auto;
+}
+
+form label {
+  display: block;
+  margin-top: 1em;
+}
+
+form input {
+  width: 100%;
+  padding: 0.5em;
+  margin-top: 0.5em;
+}
+
+form button {
+  display: block;
+  width: 100%;
+  padding: 0.7em;
+  background-color:rgb(33, 209, 33);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-top: 1em;
+  cursor: pointer;
+}
